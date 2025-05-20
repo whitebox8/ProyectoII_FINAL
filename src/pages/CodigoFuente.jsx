@@ -3,7 +3,7 @@ export default function CodigoFuente() {
       <div>
         <h2>Código Fuente</h2>
         <p>Puedes consultar el código en:</p>
-        <a href="https://github.com/TU_USUARIO/REPO" target="_blank">Repositorio en GitHub</a>
+        <a href="https://github.com/whitebox8/ProyectoII_FINAL.git" target="_blank">Repositorio en GitHub</a>
         <p>O descarga el archivo ZIP aquí:</p>
         <a href="https://drive.google.com/drive/folders/15qO5yX8jGmAy33baL0Br04oP8m4_1FTQ?usp=drive_link" download>Descargar ZIP</a>       
         <p> y revisar los avances en Trello en:</p>
